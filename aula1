@@ -1,0 +1,7 @@
+vagrant -- provisionamento automatizado de instancias
+vagrant box -- gerenciamento de instancias
+
+
+configuração do lab ansible
+
+instalar vagrant>adicionar imagens>instalar o python e o python-pip>instalar ansible via pip>criar inventario arquivo hosts>criar chave ssh e importar para chaves autorizadas>transferir arquivos de chave para outras maquinas via arquivo vagrant>resetar instancias>subir instancias com o comando "--provision">testar acesso conectando via ssh> executar comando via ansible>criar playbook.yml usando identacao> execucao de playbook via ansible>distribuir pacote  sl e cowsay via playbook> alterar caminho do sl> alterar arquivo hosts e bashrc>instalar nginx e restartar servico usando handler>
